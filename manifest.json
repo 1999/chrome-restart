@@ -1,5 +1,5 @@
 {
-    "name": "Chrome restart",
+    "name": "Restart your browser",
     "description": "Restart your Chrome browser from panel",
     "version": "1.0",
     "manifest_version": 2,
