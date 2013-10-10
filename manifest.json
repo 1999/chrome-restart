@@ -1,6 +1,6 @@
 {
     "name": "Chrome restart",
-    "description": "Restart your Chrome browser from panel or with hotkey",
+    "description": "Restart your Chrome browser from panel",
     "version": "1.0",
     "manifest_version": 2,
     "minimum_chrome_version": "25",
@@ -18,6 +18,10 @@
             "background.js"
         ],
         "persistent": false
+    },
+
+    "commands": {
+
     },
 
     "icons": {
